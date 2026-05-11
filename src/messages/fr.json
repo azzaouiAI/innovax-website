@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "about": "À propos",
+    "services": "Services",
+    "approach": "Approche",
+    "sectors": "Secteurs",
+    "contact": "Contact",
+    "cta": "Prendre contact"
+  },
+  "hero": {
+    "badge": "🇲🇦 Maroc · MENA · Afrique Francophone",
+    "title": "La transformation digitale, propulsée par l'IA",
+    "subtitle": "INNOVAX accompagne les entreprises et institutions pour concevoir, construire et scaler des systèmes digitaux intelligents.",
+    "cta_primary": "Découvrir nos services",
+    "cta_secondary": "Parler à un expert →",
+    "stat_years": "Ans d'expérience",
+    "stat_projects": "Projets livrés",
+    "stat_regions": "Régions couvertes"
+  },
+  "about": {
+    "label": "À propos d'INNOVAX",
+    "title": "Nous architecturons l'avenir digital des marchés émergents",
+    "p1": "INNOVAX est une société de conseil et de ventures digitaux basée au Maroc, dédiée à aider les organisations à naviguer leur transformation digitale grâce à la stratégie IA, l'ingénierie logicielle et l'architecture d'entreprise.",
+    "p2": "Nous combinons une expertise locale profonde avec des méthodologies éprouvées à l'échelle mondiale pour délivrer un impact mesurable — des plateformes de conformité réglementaire aux systèmes d'automatisation intelligente.",
+    "pills": ["Stratégie IA", "Architecture d'entreprise", "Venture Building", "Maroc · MENA", "Afrique Francophone"]
+  },
+  "services": {
+    "label": "Ce que nous offrons",
+    "title": "Une expertise digitale de bout en bout",
+    "subtitle": "De la stratégie au code de production — une seule équipe couvre l'intégralité de votre transformation digitale.",
+    "items": [
+      {
+        "title": "IA & Machine Learning",
+        "desc": "Intégration LLM, analytique prédictive, NLP, et conception de produits IA adaptés à votre domaine."
+      },
+      {
+        "title": "Transformation Digitale",
+        "desc": "Feuilles de route, conduite du changement, modernisation du legacy et design des modèles opérationnels digitaux."
+      },
+      {
+        "title": "Ingénierie Logicielle",
+        "desc": "Développement full-stack, plateformes API, architecture cloud-native et pipelines DevOps."
+      },
+      {
+        "title": "Conseil Stratégique",
+        "desc": "Analyse de marché, stratégie digitale, go-to-market et livrables prêts pour les investisseurs."
+      },
+      {
+        "title": "Intelligence Réglementaire",
+        "desc": "Automatisation de la conformité, veille réglementaire et plateformes legal-tech pour les marchés MENA."
+      },
+      {
+        "title": "Data & Analytique",
+        "desc": "Ingénierie de données, tableaux de bord BI, pipelines temps réel et systèmes d'intelligence décisionnelle."
+      }
+    ]
+  },
+  "approach": {
+    "label": "Notre approche",
+    "title": "Comment nous travaillons",
+    "steps": [
+      { "num": "1", "title": "Découvrir", "desc": "Entretiens parties prenantes, audit de l'existant, cartographie des opportunités" },
+      { "num": "2", "title": "Concevoir", "desc": "Architecture, spécifications produit, feuille de route et blueprints de solutions" },
+      { "num": "3", "title": "Construire", "desc": "Livraison agile, sprints d'ingénierie, QA et intégration" },
+      { "num": "4", "title": "Scaler", "desc": "Lancement, optimisation, monitoring et expansion sur les marchés cibles" }
+    ]
+  },
+  "why": {
+    "label": "Pourquoi INNOVAX",
+    "title": "Conçu pour les marchés émergents",
+    "subtitle": "Nous ne sommes pas un cabinet de conseil générique. Nous sommes des praticiens avec des racines profondes au Maroc, MENA et en Afrique Francophone.",
+    "items": [
+      { "title": "Expertise locale", "desc": "Maîtrise réglementaire des contextes marocain, MENA et africain francophone" },
+      { "title": "Approche IA-native", "desc": "L'IA n'est pas une fonctionnalité ajoutée — elle est tissée dans chaque solution que nous construisons" },
+      { "title": "Livraison full-stack", "desc": "De la stratégie au code — une seule équipe possède toute la chaîne de livraison" },
+      { "title": "Niveau praticien", "desc": "Nos livrables sont des specs et systèmes prêts pour la production, pas des slides" }
+    ]
+  },
+  "sectors": {
+    "label": "Secteurs",
+    "title": "Industries que nous servons",
+    "subtitle": "Notre expertise couvre des secteurs à fort impact dans la région.",
+    "items": ["Fintech & Banque", "Santé", "Gouvernement & Secteur Public", "Logistique & Supply Chain", "Énergie & Infrastructure", "EdTech", "Tourisme & Hôtellerie", "Immobilier & Villes Intelligentes"]
+  },
+  "cta": {
+    "title": "Prêt à transformer votre organisation ?",
+    "subtitle": "Parlons de vos défis et de ce qu'INNOVAX peut construire pour vous.",
+    "placeholder": "Votre email professionnel",
+    "button": "Demander une consultation",
+    "note": "Sans engagement. Réponse sous 24h."
+  },
+  "footer": {
+    "tagline": "Transformation digitale et conseil IA pour le Maroc, MENA et l'Afrique Francophone.",
+    "services_title": "Services",
+    "services": ["IA & Machine Learning", "Transformation Digitale", "Ingénierie Logicielle", "Conseil Stratégique"],
+    "company_title": "Société",
+    "company": ["À propos", "Notre approche", "Études de cas", "Carrières"],
+    "contact_title": "Contact",
+    "contact": ["contact@innovax.ma", "Casablanca, Maroc", "LinkedIn", "Twitter / X"],
+    "rights": "Tous droits réservés."
+  }
+}

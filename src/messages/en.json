@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "approach": "Approach",
+    "sectors": "Sectors",
+    "contact": "Contact",
+    "cta": "Get in touch"
+  },
+  "hero": {
+    "badge": "🇲🇦 Morocco · MENA · Francophone Africa",
+    "title": "Digital transformation, powered by AI",
+    "subtitle": "INNOVAX partners with enterprises and institutions to design, build, and scale intelligent digital systems.",
+    "cta_primary": "Explore our services",
+    "cta_secondary": "Talk to an expert →",
+    "stat_years": "Years experience",
+    "stat_projects": "Projects delivered",
+    "stat_regions": "Regions served"
+  },
+  "about": {
+    "label": "About INNOVAX",
+    "title": "We architect the digital future of emerging markets",
+    "p1": "INNOVAX is a digital ventures and consulting firm based in Morocco, dedicated to helping organizations navigate digital transformation through AI strategy, software engineering, and enterprise architecture.",
+    "p2": "We combine deep local market expertise with globally-proven methodologies to deliver measurable impact — from regulatory compliance platforms to intelligent automation systems.",
+    "pills": ["AI Strategy", "Enterprise Architecture", "Venture Building", "Morocco · MENA", "Francophone Africa"]
+  },
+  "services": {
+    "label": "What we offer",
+    "title": "End-to-end digital expertise",
+    "subtitle": "From strategy to production — one team owns the entire delivery chain of your digital transformation.",
+    "items": [
+      {
+        "title": "AI & Machine Learning",
+        "desc": "LLM integration, predictive analytics, NLP systems, and AI product design tailored to your domain."
+      },
+      {
+        "title": "Digital Transformation",
+        "desc": "Roadmaps, change management, legacy modernisation, and digital operating model design."
+      },
+      {
+        "title": "Software Engineering",
+        "desc": "Full-stack development, API platforms, cloud-native architecture, and DevOps pipelines."
+      },
+      {
+        "title": "Strategic Consulting",
+        "desc": "Market analysis, digital strategy, go-to-market planning, and investor-ready deliverables."
+      },
+      {
+        "title": "Regulatory Intelligence",
+        "desc": "Compliance automation, regulatory monitoring, and legal-tech platforms for MENA markets."
+      },
+      {
+        "title": "Data & Analytics",
+        "desc": "Data engineering, BI dashboards, real-time pipelines, and decision intelligence systems."
+      }
+    ]
+  },
+  "approach": {
+    "label": "Our approach",
+    "title": "How we work",
+    "steps": [
+      { "num": "1", "title": "Discover", "desc": "Stakeholder interviews, current-state audit, opportunity mapping" },
+      { "num": "2", "title": "Design", "desc": "Architecture, product specs, roadmap, and solution blueprints" },
+      { "num": "3", "title": "Build", "desc": "Agile delivery, engineering sprints, QA, and integration" },
+      { "num": "4", "title": "Scale", "desc": "Launch, optimise, monitor, and expand across markets" }
+    ]
+  },
+  "why": {
+    "label": "Why INNOVAX",
+    "title": "Built for emerging markets",
+    "subtitle": "We are not a generic consultancy. We are practitioners with deep roots in Morocco, MENA, and Francophone Africa.",
+    "items": [
+      { "title": "Local market depth", "desc": "Regulatory fluency in Moroccan, MENA, and Francophone African contexts" },
+      { "title": "AI-native approach", "desc": "AI is not a feature we bolt on — it's woven into every solution we build" },
+      { "title": "Full-stack delivery", "desc": "From strategy to code — one team owns the entire delivery chain" },
+      { "title": "Practitioner grade", "desc": "Outputs are production-ready specs and systems, not slide decks" }
+    ]
+  },
+  "sectors": {
+    "label": "Sectors",
+    "title": "Industries we serve",
+    "subtitle": "Our expertise spans high-impact sectors across the region.",
+    "items": ["Fintech & Banking", "Healthcare", "Government & Public Sector", "Logistics & Supply Chain", "Energy & Infrastructure", "EdTech", "Tourism & Hospitality", "Real Estate & Smart Cities"]
+  },
+  "cta": {
+    "title": "Ready to transform your organisation?",
+    "subtitle": "Let's talk about your challenges and what INNOVAX can build for you.",
+    "placeholder": "Your professional email",
+    "button": "Request a consultation",
+    "note": "No commitment. We respond within 24 hours."
+  },
+  "footer": {
+    "tagline": "Digital transformation and AI consulting for Morocco, MENA, and Francophone Africa.",
+    "services_title": "Services",
+    "services": ["AI & Machine Learning", "Digital Transformation", "Software Engineering", "Strategic Consulting"],
+    "company_title": "Company",
+    "company": ["About us", "Our approach", "Case studies", "Careers"],
+    "contact_title": "Contact",
+    "contact": ["contact@innovax.ma", "Casablanca, Morocco", "LinkedIn", "Twitter / X"],
+    "rights": "All rights reserved."
+  }
+}
