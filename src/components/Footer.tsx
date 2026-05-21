@@ -43,7 +43,13 @@ export default function Footer() {
             <p className="text-sm font-semibold text-white mb-3">{t('contact_title')}</p>
             <ul className="space-y-1.5">
               {contact.map((s) => (
-                <li key={s} className="text-xs hover:text-white cursor-pointer transition-colors">{s}</li>
+                <li key={s} className="text-xs hover:text-white cursor-pointer transition-colors">
+                  {s.includes('@') ? (
+                    <a href={`mailto:${s}`} className="hover:underline">{s}</a>
+                  ) : (
+                    s
+                  )}
+                </li>
               ))}
             </ul>
           </div>

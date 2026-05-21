@@ -11,7 +11,7 @@ export default function CTASection() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (email) {
-      // In production: integrate with your CRM / email service
+      window.location.href = `mailto:contact.innovax.ma@gmail.com?subject=Consultation%20Request&body=From:%20${encodeURIComponent(email)}%0A%0AHello,%20I%20would%20like%20to%20discuss%20a%20project%20with%20INNOVAX.`;
       setSent(true);
     }
   };
