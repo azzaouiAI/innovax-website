@@ -4,6 +4,7 @@
     "services": "Services",
     "approach": "Approche",
     "sectors": "Secteurs",
+    "product": "PICA",
     "contact": "Contact",
     "cta": "Prendre contact"
   },
@@ -81,6 +82,70 @@
     "title": "Industries que nous servons",
     "subtitle": "Notre expertise couvre des secteurs à fort impact dans la région.",
     "items": ["Fintech & Banque", "Santé", "Gouvernement & Secteur Public", "Logistique & Supply Chain", "Énergie & Infrastructure", "EdTech", "Tourisme & Hôtellerie", "Immobilier & Villes Intelligentes"]
+  },
+  "product": {
+    "label": "Notre Produit",
+    "name": "PICA",
+    "tagline": "Plateforme d'Intelligence Contractuelle Avancée",
+    "description": "PICA est une plateforme SaaS marocaine de gestion contractuelle intelligente, conçue pour les entreprises, cabinets juridiques et directions juridiques. En combinant IA, automatisation et expertise du droit marocain, PICA centralise le cycle de vie de vos contrats — de la rédaction à l'archivage — en réduisant les risques, délais et coûts.",
+    "features_title": "Ce que PICA fait pour vous",
+    "features": {
+      "analysis": {
+        "title": "Analyse IA des contrats",
+        "desc": "Importez un contrat (PDF, Word, ODT) et obtenez en secondes : identification des parties, extraction des clauses, détection des obligations, score de risque global et vérification de conformité au droit marocain."
+      },
+      "generation": {
+        "title": "Génération de contrats sur mesure",
+        "desc": "Créez des contrats professionnels à partir de templates juridiques (CDI, CDD, prestation, bail, NDA...). L'IA suggère les clauses manquantes ou à renforcer."
+      },
+      "dashboard": {
+        "title": "Tableau de bord en temps réel",
+        "desc": "Suivez votre portefeuille contractuel : KPIs, pipeline, alertes d'expiration, obligations en retard, répartition des risques et score de conformité."
+      },
+      "alerts": {
+        "title": "Alertes & échéances intelligentes",
+        "desc": "Détection automatique des expirations (30, 60, 90 jours), préavis de reconduction tacite et obligations en retard, avec notifications par priorité."
+      },
+      "compliance": {
+        "title": "Conformité au droit marocain",
+        "desc": "Seule plateforme calibrée sur le droit marocain : Code du Travail (65-99), loi 15-95, loi 09-08 sur la protection des données, D.O.C."
+      },
+      "comparison": {
+        "title": "Comparaison inter-contrats",
+        "desc": "Comparez deux versions ou deux contrats distincts clause par clause. L'IA identifie les risques ajoutés, clauses supprimées et recommande le plus favorable."
+      },
+      "workflow": {
+        "title": "Gestion d'équipe & workflow d'approbation",
+        "desc": "Affectez des contrats à vos équipes juridiques, financières ou opérationnelles. Gérez soumission, approbation et signature avec traçabilité complète."
+      },
+      "bilingual": {
+        "title": "Support bilingue arabe / français",
+        "desc": "Traitement natif des contrats en arabe, français ou les deux. Extraction, classification et analyse fonctionnent en arabe avec affichage RTL."
+      },
+      "reports": {
+        "title": "Rapports automatisés",
+        "desc": "Générez en un clic des rapports Excel/PDF : portfolio contractuel, analyse des risques, échéances, rapport de conformité — prêts pour le COMEX."
+      }
+    },
+    "audience_title": "Pour qui ?",
+    "audiences": [
+      { "profile": "PME & ETI marocaines", "benefit": "Maîtrise des risques contractuels sans département juridique dédié" },
+      { "profile": "Cabinets d'avocats & notaires", "benefit": "Analyse instantanée, rédaction assistée, suivi client" },
+      { "profile": "Directions juridiques", "benefit": "Centralisation, traçabilité, conformité réglementaire" },
+      { "profile": "DAF & Contrôle de gestion", "benefit": "Visibilité financière sur les engagements contractuels" },
+      { "profile": "DRH", "benefit": "Suivi automatique des contrats de travail, préavis, obligations" }
+    ],
+    "why_title": "Pourquoi choisir PICA ?",
+    "why_items": [
+      "Droit marocain intégré — seule solution calibrée sur la réglementation nationale",
+      "IA générative + analytique — rédaction ET analyse dans une même plateforme",
+      "Déploiement immédiat — SaaS, aucune installation, accès en 2 minutes",
+      "Données hébergées au Maroc / Europe — conformité loi 09-08 garantie",
+      "Interface intuitive — prise en main sans formation, en français et en arabe",
+      "Évolutif — de la start-up à la grande entreprise"
+    ],
+    "quote": "PICA transforme la gestion contractuelle d'une contrainte administrative en levier stratégique pour votre entreprise.",
+    "cta": "Demander une démo"
   },
   "cta": {
     "title": "Prêt à transformer votre organisation ?",

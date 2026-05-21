@@ -4,6 +4,7 @@
     "services": "Services",
     "approach": "Approach",
     "sectors": "Sectors",
+    "product": "PICA",
     "contact": "Contact",
     "cta": "Get in touch"
   },
@@ -81,6 +82,70 @@
     "title": "Industries we serve",
     "subtitle": "Our expertise spans high-impact sectors across the region.",
     "items": ["Fintech & Banking", "Healthcare", "Government & Public Sector", "Logistics & Supply Chain", "Energy & Infrastructure", "EdTech", "Tourism & Hospitality", "Real Estate & Smart Cities"]
+  },
+  "product": {
+    "label": "Our Product",
+    "name": "PICA",
+    "tagline": "Advanced Contract Intelligence Platform",
+    "description": "PICA is a Moroccan SaaS platform for intelligent contract management, built for companies, law firms, and legal departments. By combining AI, automation, and deep expertise in Moroccan law, PICA centralizes the entire lifecycle of your contracts — from drafting to archiving — while reducing risk, delays, and costs.",
+    "features_title": "What PICA Does for You",
+    "features": {
+      "analysis": {
+        "title": "AI-Powered Contract Analysis",
+        "desc": "Upload any contract (PDF, Word, ODT) and get within seconds: party identification, clause extraction, obligation detection, global risk scoring, and compliance verification against Moroccan law."
+      },
+      "generation": {
+        "title": "Custom Contract Generation",
+        "desc": "Create professional contracts from legal templates (permanent, fixed-term, service agreements, leases, NDAs...). AI suggests missing or weak clauses before generation."
+      },
+      "dashboard": {
+        "title": "Real-Time Dashboard",
+        "desc": "Monitor your contract portfolio: KPIs, lifecycle pipeline, expiry alerts, overdue obligations, risk distribution, and average compliance score."
+      },
+      "alerts": {
+        "title": "Smart Alerts & Deadlines",
+        "desc": "Automatic detection of upcoming expirations (30, 60, 90 days), tacit renewal deadlines, and overdue obligations — prioritized as critical, high, or normal."
+      },
+      "compliance": {
+        "title": "Moroccan Law Compliance",
+        "desc": "The only platform calibrated against Moroccan law: Labor Code (65-99), Law 15-95, Law 09-08 on data protection, Code of Obligations and Contracts."
+      },
+      "comparison": {
+        "title": "Contract Comparison",
+        "desc": "Compare two versions or two different contracts clause by clause. AI identifies added risks, removed clauses, and recommends the most favorable one."
+      },
+      "workflow": {
+        "title": "Team Management & Approval Workflows",
+        "desc": "Assign contracts to legal, finance, or operational teams. Manage submission, approval, and signing workflows with full audit trail."
+      },
+      "bilingual": {
+        "title": "Arabic / French Bilingual Support",
+        "desc": "Native processing of contracts in Arabic, French, or both. Extraction, classification, and analysis work in Arabic with native RTL display."
+      },
+      "reports": {
+        "title": "Automated Reporting",
+        "desc": "Generate Excel/PDF reports in one click: contract portfolio, risk analysis, deadlines, compliance report — ready for your board or executive committee."
+      }
+    },
+    "audience_title": "Who Is It For?",
+    "audiences": [
+      { "profile": "Moroccan SMEs & mid-size companies", "benefit": "Manage contractual risk without a dedicated legal team" },
+      { "profile": "Law firms & notaries", "benefit": "Instant analysis, AI-assisted drafting, client tracking" },
+      { "profile": "In-house legal departments", "benefit": "Centralization, traceability, regulatory compliance" },
+      { "profile": "CFOs & financial controllers", "benefit": "Full visibility over financial commitments in contracts" },
+      { "profile": "HR Directors", "benefit": "Automatic tracking of employment contracts, notices, and obligations" }
+    ],
+    "why_title": "Why Choose PICA?",
+    "why_items": [
+      "Built-in Moroccan law — the only solution calibrated to national regulations",
+      "Generative + analytical AI — drafting AND analysis in a single platform",
+      "Instant deployment — SaaS, no installation, up and running in 2 minutes",
+      "Data hosted in Morocco / Europe — full Law 09-08 compliance guaranteed",
+      "Intuitive interface — no training required, available in French and Arabic",
+      "Scalable — from startups to large enterprises"
+    ],
+    "quote": "PICA transforms contract management from an administrative burden into a strategic asset for your business.",
+    "cta": "Request a demo"
   },
   "cta": {
     "title": "Ready to transform your organisation?",
