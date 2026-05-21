@@ -86,7 +86,9 @@
     "title": "Prêt à transformer votre organisation ?",
     "subtitle": "Parlons de vos défis et de ce qu'INNOVAX peut construire pour vous.",
     "placeholder": "Votre email professionnel",
+    "message_placeholder": "Décrivez brièvement votre projet ou besoin...",
     "button": "Demander une consultation",
+    "success": "Message envoyé — nous vous recontactons sous 24h.",
     "note": "Sans engagement. Réponse sous 24h."
   },
   "footer": {
